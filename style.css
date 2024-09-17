@@ -1,0 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Anton&family=Noto+Serif+Display:ital,wght@0,100..900;1,100..900&family=Passion+One:wght@400;700;900&display=swap');
+
+body { font: 12pt Arial; }
+h1, h1, h3 { font-family: 'Anton&family', font-weight: normal;}
+button { font-size: 12pt; padding: 30px; }
